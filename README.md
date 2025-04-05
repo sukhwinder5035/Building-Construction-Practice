@@ -1,4 +1,4 @@
-# >>Building-Construction-Practice
+# Building-Construction-Practice
 Guru Nanak Dev Engineering  College, Ludhiana
                     
 Semester: 6th
